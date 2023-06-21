@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FoodProject
+Bundle-SymbolicName: FoodProject
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: FoodProject
+Export-Package: net.daum,
+ net.daum.controller,
+ net.daum.dao,
+ net.daum.service,
+ net.daum.vo
